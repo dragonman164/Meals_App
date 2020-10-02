@@ -1,6 +1,6 @@
-# meal_app
+# Meal_App
 
-A new Flutter application.
+A meal ordering app made using flutter💙
 
 ## Getting Started
 
